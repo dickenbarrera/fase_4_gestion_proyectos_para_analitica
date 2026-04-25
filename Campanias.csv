@@ -1,4 +1,4 @@
-ID_Campaña;Nombre;Fecha_Inicio;Fecha_Fin;Plataforma;Presupuesto;Objetivo;Tipo_Campaña;Estado
+ID_Campania;Nombre;Fecha_Inicio;Fecha_Fin;Plataforma;Presupuesto;Objetivo;Tipo_Campaña;Estado
 1;Campaña Verano 2023;1/06/2023;30/06/2023;Google Ads;$ 1.200;Aumentar ventas;Búsqueda;Finalizada
 2;Campaña Redes Sociales;10/07/2023;25/07/2023;Facebook Ads;$ 800;Generar engagement;Redes Sociales;Finalizada
 3;Campaña Lanzamiento Producto;15/08/2023;30/08/2023;Instagram Ads;$ 1.500;Promocionar nuevo producto;Redes Sociales;En Curso
