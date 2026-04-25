@@ -1,4 +1,4 @@
-ID_Métrica;ID_Campaña;Fecha_Medición;Clics;Impresiones;Tasa_Clics;Conversiones;Tasa_Conversión;Ingreso_Generado;Rebotes;Tasa_rebote
+ID_MÃ©trica;ID_Campania;Fecha_MediciÃ³n;Clics;Impresiones;Tasa_Clics;Conversiones;Tasa_ConversiÃ³n;Ingreso_Generado;Rebotes;Tasa_rebote
 1;1;10/06/2023;500;10000;5,00%;10;2,00%;$ 500;245;49,00%
 2;1;15/06/2023;600;11000;5,45%;12;2,00%;$ 600;302;50,33%
 3;2;10/07/2023;800;15000;5,33%;20;2,50%;$ 800;540;67,50%
